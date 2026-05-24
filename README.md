@@ -54,13 +54,6 @@ Callisto theme is also available for [Listed](https://listed.to) blogs! Check ou
 <table>
 <tr>
     <td align="center">
-        <a href="https://github.com/anivar">
-            <img src="https://avatars.githubusercontent.com/u/422943?u=cdf8a8b22ffbfc018b7dd9aae8220902394d01e7&v=4" width="80;" alt="anivar"/>
-            <br />
-            <sub><b>Anivar Aravind</b></sub>
-        </a>
-    </td>
-    <td align="center">
         <a href="https://github.com/BrunoBernardino">
             <img src="https://avatars.githubusercontent.com/u/1239616?u=6a9bfea14526fc6c7e36997db2cf8a875c426250&v=4" width="80;" alt="BrunoBernardino"/>
             <br />
@@ -94,15 +87,15 @@ Callisto theme is also available for [Listed](https://listed.to) blogs! Check ou
             <br />
             <sub><b>InDieTasten</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/araguaci">
             <img src="https://avatars.githubusercontent.com/u/7318668?v=4" width="80;" alt="araguaci"/>
             <br />
             <sub><b>Araguaci</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/elvito">
             <img src="https://avatars.githubusercontent.com/u/9715912?v=4" width="80;" alt="elvito"/>
@@ -137,15 +130,15 @@ Callisto theme is also available for [Listed](https://listed.to) blogs! Check ou
             <br />
             <sub><b>Undefined</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/frankdez93">
             <img src="https://avatars.githubusercontent.com/u/87549420?v=4" width="80;" alt="frankdez93"/>
             <br />
             <sub><b>Frankdez93</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/BigoudOps">
             <img src="https://avatars.githubusercontent.com/u/101472804?u=5e4948110e48320024f212edf5ae2332b63fc391&v=4" width="80;" alt="BigoudOps"/>
@@ -174,14 +167,6 @@ Callisto theme is also available for [Listed](https://listed.to) blogs! Check ou
             <sub><b>CRMX8</b></sub>
         </a>
     </td>
-    <td align="center">
-        <a href="https://github.com/LambdaTest-Inc">
-            <img src="https://avatars.githubusercontent.com/u/171592363?u=080d9ba6069d0ff2a0558825ff2f667c45807687&v=4" width="80;" alt="LambdaTest-Inc"/>
-            <br />
-            <sub><b>LambdaTest</b></sub>
-        </a>
-    </td></tr>
-<tr>
     <td align="center">
         <a href="https://github.com/hesreallyhim">
             <img src="https://avatars.githubusercontent.com/u/172150522?u=e288991976c46b53437a5880e90be140634a8477&v=4" width="80;" alt="hesreallyhim"/>
