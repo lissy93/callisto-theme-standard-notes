@@ -57,7 +57,7 @@ Callisto theme is also available for [Listed](https://listed.to) blogs! Check ou
         <a href="https://github.com/kenderbard">
             <img src="https://avatars.githubusercontent.com/u/1069777?v=4" width="80;" alt="kenderbard"/>
             <br />
-            <sub><b>kenderbard</b></sub>
+            <sub><b>Kenderbard</b></sub>
         </a>
     </td>
     <td align="center">
