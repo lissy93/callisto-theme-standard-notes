@@ -152,6 +152,13 @@ Callisto theme is also available for [Listed](https://listed.to) blogs! Check ou
             <br />
             <sub><b>Gl0bal01 💖 龴ↀ◡ↀ龴</b></sub>
         </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/cadiaz2004">
+            <img src="https://avatars.githubusercontent.com/u/251514146?v=4" width="80;" alt="cadiaz2004"/>
+            <br />
+            <sub><b>cadiaz2004</b></sub>
+        </a>
     </td></tr>
 </table>
 <!-- readme: sponsors -end -->
