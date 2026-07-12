@@ -157,7 +157,7 @@ Callisto theme is also available for [Listed](https://listed.to) blogs! Check ou
         <a href="https://github.com/cadiaz2004">
             <img src="https://avatars.githubusercontent.com/u/251514146?v=4" width="80;" alt="cadiaz2004"/>
             <br />
-            <sub><b>cadiaz2004</b></sub>
+            <sub><b>Cadiaz2004</b></sub>
         </a>
     </td></tr>
 </table>
