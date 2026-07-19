@@ -54,13 +54,6 @@ Callisto theme is also available for [Listed](https://listed.to) blogs! Check ou
 <table>
 <tr>
     <td align="center">
-        <a href="https://github.com/kenderbard">
-            <img src="https://avatars.githubusercontent.com/u/1069777?v=4" width="80;" alt="kenderbard"/>
-            <br />
-            <sub><b>Kenderbard</b></sub>
-        </a>
-    </td>
-    <td align="center">
         <a href="https://github.com/bile0026">
             <img src="https://avatars.githubusercontent.com/u/5022496?u=aec96ad173c0ea9baaba93807efa8a848af6595c&v=4" width="80;" alt="bile0026"/>
             <br />
@@ -86,6 +79,13 @@ Callisto theme is also available for [Listed](https://listed.to) blogs! Check ou
             <img src="https://avatars.githubusercontent.com/u/7318668?v=4" width="80;" alt="araguaci"/>
             <br />
             <sub><b>Araguaci</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/elvito">
+            <img src="https://avatars.githubusercontent.com/u/9715912?v=4" width="80;" alt="elvito"/>
+            <br />
+            <sub><b>elvito</b></sub>
         </a>
     </td>
     <td align="center">
@@ -125,10 +125,25 @@ Callisto theme is also available for [Listed](https://listed.to) blogs! Check ou
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/blitzdakka">
+            <img src="https://avatars.githubusercontent.com/u/90234611?v=4" width="80;" alt="blitzdakka"/>
+            <br />
+            <sub><b>blitzdakka</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/BigoudOps">
             <img src="https://avatars.githubusercontent.com/u/101472804?u=5e4948110e48320024f212edf5ae2332b63fc391&v=4" width="80;" alt="BigoudOps"/>
             <br />
             <sub><b>John BigoudOps</b></sub>
+        </a>
+    </td></tr>
+<tr>
+    <td align="center">
+        <a href="https://github.com/Br0kenSilos">
+            <img src="https://avatars.githubusercontent.com/u/137440866?v=4" width="80;" alt="Br0kenSilos"/>
+            <br />
+            <sub><b>Br0kenSilos</b></sub>
         </a>
     </td>
     <td align="center">
@@ -137,8 +152,7 @@ Callisto theme is also available for [Listed](https://listed.to) blogs! Check ou
             <br />
             <sub><b>Hudsonrock-partnerships</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/hesreallyhim">
             <img src="https://avatars.githubusercontent.com/u/172150522?u=e288991976c46b53437a5880e90be140634a8477&v=4" width="80;" alt="hesreallyhim"/>
