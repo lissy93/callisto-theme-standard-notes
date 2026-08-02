@@ -55,7 +55,7 @@ Callisto theme is also available for [Listed](https://listed.to) blogs! Check ou
 <tr>
     <td align="center">
         <a href="https://github.com/askans">
-            <img src="https://avatars.githubusercontent.com/u/4079944?v=4" width="80;" alt="askans"/>
+            <img src="https://avatars.githubusercontent.com/u/4079944?u=ffca2521b5aaf607fc946e6ca9a17f531ced4421&v=4" width="80;" alt="askans"/>
             <br />
             <sub><b>Askan</b></sub>
         </a>
@@ -147,6 +147,13 @@ Callisto theme is also available for [Listed](https://listed.to) blogs! Check ou
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/MorganKryze">
+            <img src="https://avatars.githubusercontent.com/u/103436411?v=4" width="80;" alt="MorganKryze"/>
+            <br />
+            <sub><b>Yann M. Vidamment</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/Br0kenSilos">
             <img src="https://avatars.githubusercontent.com/u/137440866?u=fd1230c976c98dd554386a01326707d7706a241a&v=4" width="80;" alt="Br0kenSilos"/>
             <br />
@@ -162,7 +169,7 @@ Callisto theme is also available for [Listed](https://listed.to) blogs! Check ou
     </td>
     <td align="center">
         <a href="https://github.com/LambdaTest-Inc">
-            <img src="https://avatars.githubusercontent.com/u/171592363?v=4" width="80;" alt="LambdaTest-Inc"/>
+            <img src="https://avatars.githubusercontent.com/u/171592363?u=080d9ba6069d0ff2a0558825ff2f667c45807687&v=4" width="80;" alt="LambdaTest-Inc"/>
             <br />
             <sub><b>TestMu AI Open Source Office (Formerly LambdaTest)</b></sub>
         </a>
@@ -173,20 +180,13 @@ Callisto theme is also available for [Listed](https://listed.to) blogs! Check ou
             <br />
             <sub><b>Really Him</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/gl0bal01">
             <img src="https://avatars.githubusercontent.com/u/173822055?u=bdd97d9996a19992db811e3aac1515567574a204&v=4" width="80;" alt="gl0bal01"/>
             <br />
             <sub><b>Gl0bal01 💖 龴ↀ◡ↀ龴</b></sub>
-        </a>
-    </td></tr>
-<tr>
-    <td align="center">
-        <a href="https://github.com/cadiaz2004">
-            <img src="https://avatars.githubusercontent.com/u/251514146?v=4" width="80;" alt="cadiaz2004"/>
-            <br />
-            <sub><b>Cadiaz2004</b></sub>
         </a>
     </td></tr>
 </table>
