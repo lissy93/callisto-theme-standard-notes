@@ -55,7 +55,7 @@ Callisto theme is also available for [Listed](https://listed.to) blogs! Check ou
 <tr>
     <td align="center">
         <a href="https://github.com/nubela">
-            <img src="https://avatars.githubusercontent.com/u/146607?v=4" width="80;" alt="nubela"/>
+            <img src="https://avatars.githubusercontent.com/u/146607?u=da66c0791772716abfaff404b75e73e3c3df443f&v=4" width="80;" alt="nubela"/>
             <br />
             <sub><b>Nubela</b></sub>
         </a>
@@ -97,13 +97,6 @@ Callisto theme is also available for [Listed](https://listed.to) blogs! Check ou
     </td></tr>
 <tr>
     <td align="center">
-        <a href="https://github.com/elvito">
-            <img src="https://avatars.githubusercontent.com/u/9715912?v=4" width="80;" alt="elvito"/>
-            <br />
-            <sub><b>Elvito</b></sub>
-        </a>
-    </td>
-    <td align="center">
         <a href="https://github.com/vlad-tim">
             <img src="https://avatars.githubusercontent.com/u/11474041?u=eee43705b54d2ec9f51fc4fcce5ad18dd17c87e4&v=4" width="80;" alt="vlad-tim"/>
             <br />
@@ -137,14 +130,6 @@ Callisto theme is also available for [Listed](https://listed.to) blogs! Check ou
             <br />
             <sub><b>Frankdez93</b></sub>
         </a>
-    </td></tr>
-<tr>
-    <td align="center">
-        <a href="https://github.com/blitzdakka">
-            <img src="https://avatars.githubusercontent.com/u/90234611?v=4" width="80;" alt="blitzdakka"/>
-            <br />
-            <sub><b>Blitzdakka</b></sub>
-        </a>
     </td>
     <td align="center">
         <a href="https://github.com/BigoudOps">
@@ -152,7 +137,8 @@ Callisto theme is also available for [Listed](https://listed.to) blogs! Check ou
             <br />
             <sub><b>John BigoudOps</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/MorganKryze">
             <img src="https://avatars.githubusercontent.com/u/103436411?u=229e2d87d90cbf57ba1b5ab8af0b9392021949bc&v=4" width="80;" alt="MorganKryze"/>
@@ -162,16 +148,9 @@ Callisto theme is also available for [Listed](https://listed.to) blogs! Check ou
     </td>
     <td align="center">
         <a href="https://github.com/Zenxlk">
-            <img src="https://avatars.githubusercontent.com/u/126708882?v=4" width="80;" alt="Zenxlk"/>
+            <img src="https://avatars.githubusercontent.com/u/126708882?u=c65e1a3d7f29bd2dfd25b81fdc6db21ee3088d33&v=4" width="80;" alt="Zenxlk"/>
             <br />
             <sub><b>Jair Mendez</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/Br0kenSilos">
-            <img src="https://avatars.githubusercontent.com/u/137440866?u=fd1230c976c98dd554386a01326707d7706a241a&v=4" width="80;" alt="Br0kenSilos"/>
-            <br />
-            <sub><b>Br0kenSilos</b></sub>
         </a>
     </td>
     <td align="center">
@@ -180,8 +159,7 @@ Callisto theme is also available for [Listed](https://listed.to) blogs! Check ou
             <br />
             <sub><b>Hudsonrock-partnerships</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/LambdaTest-Inc">
             <img src="https://avatars.githubusercontent.com/u/171592363?u=080d9ba6069d0ff2a0558825ff2f667c45807687&v=4" width="80;" alt="LambdaTest-Inc"/>
