@@ -54,13 +54,6 @@ Callisto theme is also available for [Listed](https://listed.to) blogs! Check ou
 <table>
 <tr>
     <td align="center">
-        <a href="https://github.com/nubela">
-            <img src="https://avatars.githubusercontent.com/u/146607?u=da66c0791772716abfaff404b75e73e3c3df443f&v=4" width="80;" alt="nubela"/>
-            <br />
-            <sub><b>Nubela</b></sub>
-        </a>
-    </td>
-    <td align="center">
         <a href="https://github.com/bile0026">
             <img src="https://avatars.githubusercontent.com/u/5022496?u=aec96ad173c0ea9baaba93807efa8a848af6595c&v=4" width="80;" alt="bile0026"/>
             <br />
@@ -94,15 +87,15 @@ Callisto theme is also available for [Listed](https://listed.to) blogs! Check ou
             <br />
             <sub><b>HeliXZz</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/Daechler">
             <img src="https://avatars.githubusercontent.com/u/50748803?u=de67f2510378245669e134c508b676ea82e7688f&v=4" width="80;" alt="Daechler"/>
             <br />
             <sub><b>Daechler</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/undefined">
             <img src="" width="80;" alt="undefined"/>
@@ -132,14 +125,6 @@ Callisto theme is also available for [Listed](https://listed.to) blogs! Check ou
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/Zenxlk">
-            <img src="https://avatars.githubusercontent.com/u/126708882?u=c65e1a3d7f29bd2dfd25b81fdc6db21ee3088d33&v=4" width="80;" alt="Zenxlk"/>
-            <br />
-            <sub><b>Jair Mendez</b></sub>
-        </a>
-    </td></tr>
-<tr>
-    <td align="center">
         <a href="https://github.com/hudsonrock-partnerships">
             <img src="https://avatars.githubusercontent.com/u/163282900?u=5f2667f7fe5d284ac7a2da6b0800ea8970b0fcbf&v=4" width="80;" alt="hudsonrock-partnerships"/>
             <br />
@@ -152,7 +137,8 @@ Callisto theme is also available for [Listed](https://listed.to) blogs! Check ou
             <br />
             <sub><b>TestMu AI Open Source Office (Formerly LambdaTest)</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/hesreallyhim">
             <img src="https://avatars.githubusercontent.com/u/172150522?u=e288991976c46b53437a5880e90be140634a8477&v=4" width="80;" alt="hesreallyhim"/>
@@ -165,6 +151,13 @@ Callisto theme is also available for [Listed](https://listed.to) blogs! Check ou
             <img src="https://avatars.githubusercontent.com/u/173822055?u=e418964bb478d5780a4044f95207bca19adf709f&v=4" width="80;" alt="gl0bal01"/>
             <br />
             <sub><b>Gl0bal01 💖 龴ↀ◡ↀ龴</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/sbhog">
+            <img src="https://avatars.githubusercontent.com/u/199082015?v=4" width="80;" alt="sbhog"/>
+            <br />
+            <sub><b>Axel Hoga</b></sub>
         </a>
     </td></tr>
 </table>
