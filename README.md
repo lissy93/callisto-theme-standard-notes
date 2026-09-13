@@ -155,7 +155,7 @@ Callisto theme is also available for [Listed](https://listed.to) blogs! Check ou
     </td>
     <td align="center">
         <a href="https://github.com/sbhog">
-            <img src="https://avatars.githubusercontent.com/u/199082015?v=4" width="80;" alt="sbhog"/>
+            <img src="https://avatars.githubusercontent.com/u/199082015?u=9f6251f98272ffc92d43889836a73c476afcb1fe&v=4" width="80;" alt="sbhog"/>
             <br />
             <sub><b>Axel Hoga</b></sub>
         </a>
