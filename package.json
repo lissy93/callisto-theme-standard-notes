@@ -1,7 +1,7 @@
 {
   "name": "sn-theme-callisto",
   "description": "Callisto theme for Standard Notes",
-  "version": "1.0.171",
+  "version": "1.0.172",
   "license": "AGPL-3.0",
   "main": "callisto-standard-notes.css",
   "sn": {
